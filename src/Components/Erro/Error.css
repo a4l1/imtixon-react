@@ -1,0 +1,18 @@
+
+
+.Error{
+    margin: auto;
+    margin-top: 100px;
+    width: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    background-image: url(../../assets//img//errorimg.avif);
+}
+
+.error__btn button{
+    font-size: 25px;
+    width: 500px;
+    margin-top: 510px;
+    margin-left: 5px;
+}

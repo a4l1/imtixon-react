@@ -1,0 +1,26 @@
+
+body{
+  background-color: #EAEAEA;
+}
+.container{
+  width: 80%;
+  margin: 0 auto;
+}
+
+button{
+  background-color: chartreuse;
+  box-shadow: 0 0 8px gray;
+  width: 100px;
+  transition-duration: 0.8s;
+
+}
+
+button:hover{
+  box-shadow: 0 0 15px gray;
+}
+
+
+.App.active{
+  background-color: black;
+  color: #EAEAEA;
+}
